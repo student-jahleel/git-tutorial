@@ -1,1 +1,1 @@
-console.log('index.js v1');
+console.log('index.js v2');
