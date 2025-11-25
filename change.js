@@ -1,3 +1,3 @@
-console.log('change.js v1');
+console.log('change.js v5');
 console.log('update');
 console.log('add feature');
